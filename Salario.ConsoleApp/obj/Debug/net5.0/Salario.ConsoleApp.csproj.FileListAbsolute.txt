@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\Salario.ConsoleApp.exe
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\Salario.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\Salario.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\Salario.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\Salario.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\ref\Salario.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\bin\Debug\net5.0\Salario.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\ref\Salario.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Salario.ConsoleApp\obj\Debug\net5.0\Salario.ConsoleApp.genruntimeconfig.cache

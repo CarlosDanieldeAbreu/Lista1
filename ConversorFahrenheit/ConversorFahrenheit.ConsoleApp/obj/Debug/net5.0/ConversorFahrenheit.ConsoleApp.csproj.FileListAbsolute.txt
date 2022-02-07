@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ConversorFahrenheit.ConsoleApp.exe
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ConversorFahrenheit.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ConversorFahrenheit.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ConversorFahrenheit.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ConversorFahrenheit.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ref\ConversorFahrenheit.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\bin\Debug\net5.0\ConversorFahrenheit.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ref\ConversorFahrenheit.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.genruntimeconfig.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\ConversorFahrenheit\ConversorFahrenheit.ConsoleApp\obj\Debug\net5.0\ConversorFahrenheit.ConsoleApp.csproj.AssemblyReference.cache

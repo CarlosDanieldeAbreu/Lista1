@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ConversorDeTemperaturaConsoleApp.exe
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ConversorDeTemperaturaConsoleApp.deps.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ConversorDeTemperaturaConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ConversorDeTemperaturaConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ConversorDeTemperaturaConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ref\ConversorDeTemperaturaConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\bin\Debug\net5.0\ConversorDeTemperaturaConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ref\ConversorDeTemperaturaConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\ConversorDeTemperaturaConsoleApp\obj\Debug\net5.0\ConversorDeTemperaturaConsoleApp.genruntimeconfig.cache

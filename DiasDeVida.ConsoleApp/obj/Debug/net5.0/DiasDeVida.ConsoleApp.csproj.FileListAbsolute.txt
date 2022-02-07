@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\DiasDeVida.ConsoleApp.exe
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\DiasDeVida.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\DiasDeVida.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\DiasDeVida.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\DiasDeVida.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\ref\DiasDeVida.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\bin\Debug\net5.0\DiasDeVida.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\ref\DiasDeVida.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\DiasDeVida.ConsoleApp\obj\Debug\net5.0\DiasDeVida.ConsoleApp.genruntimeconfig.cache

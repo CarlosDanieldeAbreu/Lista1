@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\Padaria.ConsoleApp.exe
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\Padaria.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\Padaria.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\Padaria.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\Padaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\ref\Padaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\bin\Debug\net5.0\Padaria.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\ref\Padaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Padaria\Padaria.ConsoleApp\obj\Debug\net5.0\Padaria.ConsoleApp.genruntimeconfig.cache

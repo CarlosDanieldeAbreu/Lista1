@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\Imobiliaria.ConsoleApp.exe
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\Imobiliaria.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\Imobiliaria.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\Imobiliaria.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\Imobiliaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\ref\Imobiliaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\bin\Debug\net5.0\Imobiliaria.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\ref\Imobiliaria.ConsoleApp.dll
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.pdb
+C:\Users\Carlos Daniel\OneDrive\Documents\AcademiaDoProgramador\atividades\lista 1\Lista1\Imobiliaria.ConsoleApp\obj\Debug\net5.0\Imobiliaria.ConsoleApp.genruntimeconfig.cache

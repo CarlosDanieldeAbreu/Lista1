@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75af906f-08ea-41eb-a63b-17f175971c5b": {
+      "ProjectGuid": "75af906f-08ea-41eb-a63b-17f175971c5b",
+      "DisplayName": "ConversorFahrenheit.ConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
